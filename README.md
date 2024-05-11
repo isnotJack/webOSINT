@@ -9,12 +9,6 @@
 <br>
 
 <div align="center">
-<img width="633" src="https://user-images.githubusercontent.com/104733166/185790639-b1f09747-aea3-4f64-a52f-d70efd820a22.png"></div>
-
-
-<br>
-<br>
-<br>
 
 
 # WebOSINT 🌐
@@ -40,7 +34,7 @@ docker run -it scorpix06/webosint
 # Installation ⚙️
 
 ```
-git clone https://github.com/C3n7ral051nt4g3ncy/webosint
+git clone https://github.com/isnotJack/webOSINT.git
 ```
   
 ```
@@ -133,27 +127,8 @@ Be aware that for the reverse IP search using the Hacker Target API, you are goi
 <p align="center">
 <img width="333" src="https://user-images.githubusercontent.com/104733166/179029659-f1591798-d0e9-45d9-8dbb-c7de0a82585f.png"></p>
 
-
 <br>
 
-# Potential Issues and Errors ❌
-Before making this repository public, I gave private access to a few people, some were getting an error right at the beginning of the script and websites that were `Registered` were being shown as `Not Registered`. Found the problem/issue, some people have both `whois` and  `python-whois` modules, and they were conflicting with each other. Fixing the issue will be:
-``` 
-pip3 uninstall whois
-```   
-``` 
-pip3 uninstall python-whois
-``` 
-Make a clean install: 
-``` 
-pip 3 install python-whois
-```   
-
-<br>
-  
-Or simply use `virtualenv` 🧠
-
-<br>
 
 # Disclaimer ⚠️
 
@@ -161,25 +136,14 @@ Or simply use `virtualenv` 🧠
 
 <br>
 
-# Tool Improvements 🔧
-Feel free to contribute and to change some code within the tool, submit a PR (Pull Request), or submit your thoughts here on github in the [Webosint discussions](https://github.com/C3n7ral051nt4g3ncy/webosint/discussions)
-<br>
-<br>
-
 # License ⚖️
 [MIT](https://choosealicense.com/licenses/mit/)
  
 <br>
   
-# Support 💜
-If you like this simple Python tool, feel free to donate to my work by clicking on the **KO-FI** Badge or the **BITCOIN** Badge at the top of this  `README.md` file, you can also scan my BTC QR Code directly to get my BTC Address. 
-
 <br>
 
-# Mention 🔊
-Thank you to [Hacker Target](https://hackertarget.com) for their API and great work which makes this tool possible, thank you also to [WHOisXML](https://main.whoisxmlapi.com) for their API as they make a free API (500 searches) which provides a great opportunity for the people in the Cyber community, and thanks to [Whois Freaks](https://whoisfreaks.com)for their free 100 search API Trial.
-Thanks to [@cipher387](https://github.com/cipher387)/[@cyb_detective](https://twitter.com/cyb_detective) and to [Euler Neto](https://github.com/netoeuler) for testing the script before release and finding 2 minor corrections.
-  
+
 <br>
   
 <p align="center"><img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/178512035-bb81cafc-f785-4426-9268-6634d3c2152d.png"></p>

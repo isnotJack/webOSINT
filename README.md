@@ -1,8 +1,6 @@
-<div align="center">
+<div align="left">
  
 <img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white"/> 
-<br>
-<br>
   
 </div>
   
